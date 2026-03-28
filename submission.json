@@ -1,0 +1,7 @@
+{
+  "prompt": "A surreal, emotionally powerful image of human lungs formed entirely out of a dense cityscape, factories, chimneys, and crowded buildings. Thick dark smoke fills the lung structure like suffocating fluid, rising from the bottom upward. The lower parts of the lungs are heavy, blackened, and industrial, while the upper parts fade faintly into cleaner air but remain fragile and nearly disappearing. Tiny human silhouettes inside the lungs appear to be struggling, coughing, or fading away into the smog. The composition is minimal, centered, and symbolic, with strong contrast between darkness and faint light. Cinematic lighting, highly detailed textures, volumetric smoke, realistic yet surreal, no text. --no charts, graphs, data visualization, infographic, numbers, labels, globe, thermometer, generic AI style",
+  "model": "Midjourney v6.1",
+  "dataset_name": "Global Burden of Disease – Air Pollution Mortality",
+  "dataset_url": "https://ghdx.healthdata.org/gbd-results-tool",
+  "insight": "Air pollution kills millions invisibly — like breathing slowly filling your lungs with death."
+}
